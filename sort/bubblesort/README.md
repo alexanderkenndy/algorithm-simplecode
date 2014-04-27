@@ -9,5 +9,6 @@ O(n^2)
 持续每次对越来越少的元素重复上面的步骤，直到没有任何一对数字需要比较。
 ###Code
 BubbleSort.java
-Ref:http://en.wikipedia.org/wiki/Bubble_sort
+### Reference
+http://en.wikipedia.org/wiki/Bubble_sort
 
