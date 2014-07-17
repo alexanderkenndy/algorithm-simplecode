@@ -9,3 +9,6 @@
 - 递归地（recursive）把小于基准值元素的子数列和大于基准值元素的子数列排序。
 ###Code
 QuickSort.java
+
+###Issus
+any issue,please contract to mai: alexander.kenndy#gmail.com(change # to @)
