@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://blog.163.com/fsl_xx2004/blog/static/6181892820063260530563/
+[DOC#452]
+BASEURL=http://blog.163.com/fsl_xx2004/blog/static/6181892820063260530563/
+ORIGURL=http://blog.163.com/crossdomain.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://blog.163.com/fsl_xx2004/blog/static/6181892820063260530563/
+IDList=
+IconFile=http://blog.163.com/favicon.ico
+IconIndex=1

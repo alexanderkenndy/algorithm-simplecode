@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://hi.baidu.com/zjq588/item/3a1243ef2734050e570f1dc8
+[DOC#33]
+BASEURL=http://bdimg.share.baidu.com/static/js/ls.html?from=hi.baidu.com&cdnversion=20120620
+ORIGURL=http://bdimg.share.baidu.com/static/js/ls.html?from=hi.baidu.com&cdnversion=20120620
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://hi.baidu.com/zjq588/item/3a1243ef2734050e570f1dc8
+IDList=
+IconFile=http://hi.bdimg.com/static/qbase/img/mod/16_favicon.ico?v=49f19c7f.ico
+IconIndex=1

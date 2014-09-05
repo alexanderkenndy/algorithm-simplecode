@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=res://ieframe.dll/dnserror.htm
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://help.eclipse.org/indigo/index.jsp
+IDList=
+IconFile=http://help.eclipse.org/favicon.ico
+IconIndex=1

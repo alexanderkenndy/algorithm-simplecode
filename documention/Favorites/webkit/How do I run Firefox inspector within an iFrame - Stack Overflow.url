@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://stackoverflow.com/questions/16745562/how-do-i-run-firefox-inspector-within-an-iframe
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://stackoverflow.com/questions/16745562/how-do-i-run-firefox-inspector-within-an-iframe
+IDList=
+IconFile=http://cdn.sstatic.net/stackoverflow/img/favicon.ico?v=038622610830
+IconIndex=1

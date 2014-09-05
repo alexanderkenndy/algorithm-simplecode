@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.iteye.com/topic/785445
+[DOC#328_ifr65113]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=http://weibo.com/aj/static/sync.html?t=1393904861677
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.iteye.com/topic/785445
+IDList=
+IconFile=http://www.iteye.com/images/favicon.ico
+IconIndex=1

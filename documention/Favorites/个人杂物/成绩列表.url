@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://rat_server:90/ole/(X(1)S(vgv14n55hdpjquasd4l5atub))/EOS/search/GradeListUser.aspx
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://rat_server:90/ole/(X(1)S(vgv14n55hdpjquasd4l5atub))/EOS/search/GradeListUser.aspx
+IDList=

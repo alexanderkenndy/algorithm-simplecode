@@ -1,0 +1,21 @@
+[DEFAULT]
+BASEURL=http://www.cnblogs.com/wintalen/archive/2011/12/27/2303567.html
+[DOC_google_ads_iframe_/1090369/cnblogs_blogpost_C1_sitehome_0]
+BASEURL=http://www.cnblogs.com/wintalen/archive/2011/12/27/2303567.html
+ORIGURL=javascript:'<script type="text/javascript">document.domain = "cnblogs.com";var adContent = window.parent["google-ad-content-vrv5pudl539t"];window.parent["google-ad-content-vrv5pudl539t"] = null;document.write(adContent);document.close();</script>'
+[DOC_google_ads_iframe_/1090369/cnblogs_blogpost_C1_sitehome_0#11]
+BASEURL=https://googleads.g.doubleclick.net/pagead/drt/si?p=CAA&ut=AFAKxlQAAAAAUZwrgbhs5Vi74RZV2sheAUknByVOAOHN
+ORIGURL=http://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211
+[DOC_google_ads_iframe_/1090369/cnblogs_blogpost_C2_sitehome_0]
+BASEURL=http://www.cnblogs.com/wintalen/archive/2011/12/27/2303567.html
+ORIGURL=javascript:'<script type="text/javascript">document.domain = "cnblogs.com";var adContent = window.parent["google-ad-content-se6ao8546752"];window.parent["google-ad-content-se6ao8546752"] = null;document.write(adContent);document.close();</script>'
+[DOC_google_ads_iframe_/1090369/cnblogs_blogpost_C2_sitehome_0#83]
+BASEURL=https://googleads.g.doubleclick.net/pagead/drt/si?p=CAA&ut=AFAKxlQAAAAAUZwrglSpP3i6yphoRFIl_LRlrVU1yMGe
+ORIGURL=http://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.cnblogs.com/wintalen/archive/2011/12/27/2303567.html
+IDList=
+IconFile=http://www.cnblogs.com/favicon.ico
+IconIndex=1

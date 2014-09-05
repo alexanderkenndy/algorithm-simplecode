@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://blog.csdn.net/qjyong/article/details/2148558
+[DOC_ad_frm_0_baidu_clb_slot_iframe_117306]
+BASEURL=http://blog.csdn.net/common/ad.html?t=4&containerId=ad_cen&frmId=ad_frm_0
+ORIGURL=about:blank
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://blog.csdn.net/qjyong/article/details/2148558
+IDList=
+IconFile=http://blog.csdn.net/favicon.ico
+IconIndex=1

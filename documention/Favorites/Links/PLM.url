@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://splm.sec.samsung.net/portal/com/shared/main.do
+[DOC_headerSet_bodySet__contentFrame_contentHtmlFrame]
+BASEURL=http://splm.sec.samsung.net/vd/com/property/getPropertySetting.do?fromPlmMainMenu=true
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://splm.sec.samsung.net/portal/com/shared/main.do
+IDList=

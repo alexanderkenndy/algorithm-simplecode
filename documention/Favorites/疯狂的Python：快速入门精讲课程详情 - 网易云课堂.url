@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://study.163.com/course/introduction.htm?courseId=302001&6925ecaa9614a750=geek_csdn_20130708
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://study.163.com/course/introduction.htm?courseId=302001&6925ecaa9614a750=geek_csdn_20130708#/courseDetail
+IDList=
+IconFile=http://study.163.com/favicon.ico
+IconIndex=1

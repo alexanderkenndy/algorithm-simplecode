@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://en.wikipedia.org/wiki/C0_and_C1_control_codes
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://en.wikipedia.org/wiki/C0_and_C1_control_codes
+IDList=
+IconFile=http://bits.wikimedia.org/favicon/wikipedia.ico
+IconIndex=1

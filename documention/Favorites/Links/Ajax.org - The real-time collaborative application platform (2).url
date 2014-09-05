@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://ui.ajax.org/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://ui.ajax.org/#docs/element.table
+IDList=
+IconFile=http://ui.ajax.org/images/favicon.ico
+IconIndex=1

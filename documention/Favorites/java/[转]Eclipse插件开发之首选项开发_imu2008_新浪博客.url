@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://blog.sina.com.cn/s/blog_667fe4a501018zo5.html
+[DOC#2112]
+BASEURL=http://qing.weibo.com/blog/api/getsearchnatant.php?t=1364432967974
+ORIGURL=http://qing.weibo.com/blog/api/getsearchnatant.php?t=1364432967974
+[DOC#2141]
+BASEURL=http://blog.sina.com.cn/lm/mini/noborder/01.html
+ORIGURL=http://blog.sina.com.cn/lm/mini/noborder/01.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://blog.sina.com.cn/s/blog_667fe4a501018zo5.html
+IDList=
+IconFile=http://blog.sina.com.cn/favicon.ico
+IconIndex=1

@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://blog.csdn.net/qq413041153/article/details/7922126
+[DOC_ad_frm_0_aswift_0]
+BASEURL=http://blog.csdn.net/common/ad.html?t=4&containerId=ad_cen&frmId=ad_frm_0
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://blog.csdn.net/qq413041153/article/details/7922126
+IDList=
+IconFile=http://blog.csdn.net/favicon.ico
+IconIndex=1

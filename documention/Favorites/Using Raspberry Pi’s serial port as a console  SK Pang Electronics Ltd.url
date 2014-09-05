@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://skpang.co.uk/blog/archives/424
+[DOC#103]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fskpang.co.uk%2Fblog%2Farchives%2F424&counturl=http%3A%2F%2Fskpang.co.uk%2Fblog%2Farchives%2F424&count=horizontal&text=Using%20Raspberry%20Pi%27s%20serial%20port%20as%20a%20console: 
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://skpang.co.uk/blog/archives/424
+IDList=
+IconFile=http://skpang.co.uk/favicon.ico
+IconIndex=1

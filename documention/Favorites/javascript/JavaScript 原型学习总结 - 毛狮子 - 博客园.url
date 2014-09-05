@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.cnblogs.com/jsk540/archive/2010/10/26/1861630.html
+[DOC_google_ads_iframe_/1090369/cnblogs_blogpost_C1_sitehome_0]
+BASEURL=http://www.cnblogs.com/jsk540/archive/2010/10/26/1861630.html
+ORIGURL=javascript:'<script type="text/javascript">document.domain = "cnblogs.com";var adContent = window.parent["google-ad-content-sa6zx4e4lddu"];window.parent["google-ad-content-sa6zx4e4lddu"] = null;document.write(adContent);document.close();</script>'
+[DOC_google_ads_iframe_/1090369/cnblogs_blogpost_C2_sitehome_0]
+BASEURL=http://www.cnblogs.com/jsk540/archive/2010/10/26/1861630.html
+ORIGURL=javascript:'<script type="text/javascript">document.domain = "cnblogs.com";var adContent = window.parent["google-ad-content-mrner77z9k9x"];window.parent["google-ad-content-mrner77z9k9x"] = null;document.write(adContent);document.close();</script>'
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.cnblogs.com/jsk540/archive/2010/10/26/1861630.html
+IDList=
+IconFile=http://www.cnblogs.com/favicon.ico
+IconIndex=1

@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.oschina.net/question/12_2663
+[DOC#509]
+BASEURL=http://www.oschina.net/question/12_2663
+ORIGURL=javascript:void(function(){document.open()%3Bdocument.close()%3B}())
+[DOC_aswift_0]
+BASEURL=http://www.oschina.net/question/12_2663
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.oschina.net/question/12_2663
+IDList=
+IconFile=http://www.oschina.net/img/favicon.ico
+IconIndex=1

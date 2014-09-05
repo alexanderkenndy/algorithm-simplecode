@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.csser.com/board/4f3f516e38a5ebc9780004fe
+[DOC#174]
+BASEURL=http://www.csser.com/board/4f3f516e38a5ebc9780004fe
+ORIGURL=javascript:void(function(){document.open()%3Bdocument.close()%3B}())
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.csser.com/board/4f3f516e38a5ebc9780004fe
+IDList=
+IconFile=http://s0.csser.com/favicon.ico
+IconIndex=1

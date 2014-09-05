@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.cnblogs.com/Kevin-moon/archive/2010/05/10/1731358.html
+[DOC_google_ads_iframe_/1090369/cnblogs_blogpost_C1_sitehome_0]
+BASEURL=http://www.cnblogs.com/Kevin-moon/archive/2010/05/10/1731358.html
+ORIGURL=javascript:'<script type="text/javascript">document.domain = "cnblogs.com";var adContent = window.parent["google-ad-content-b2nbeopdj15d"];window.parent["google-ad-content-b2nbeopdj15d"] = null;document.write(adContent);document.close();</script>'
+[DOC_google_ads_iframe_/1090369/cnblogs_blogpost_C2_sitehome_0]
+BASEURL=http://www.cnblogs.com/Kevin-moon/archive/2010/05/10/1731358.html
+ORIGURL=javascript:'<script type="text/javascript">document.domain = "cnblogs.com";var adContent = window.parent["google-ad-content-ixncqa2f2hsl"];window.parent["google-ad-content-ixncqa2f2hsl"] = null;document.write(adContent);document.close();</script>'
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.cnblogs.com/Kevin-moon/archive/2010/05/10/1731358.html
+IDList=
+IconFile=http://www.cnblogs.com/favicon.ico
+IconIndex=1
